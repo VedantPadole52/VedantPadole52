@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Padole</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<h3>Gmail :- **vedant.officalwork0@gmail.com**</h3>
-
+- Gmail :- **vedant.officialwork0@gmail.com**
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  alt="coder" width="1500">
 <hr/>
 
