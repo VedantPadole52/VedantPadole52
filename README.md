@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedant Padole.</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
-<h4 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h4>
+<h3 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h3>
 
 <hr/>
 
