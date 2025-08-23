@@ -1,4 +1,10 @@
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  alt="coder" width="1500">
+
+<!-- 🖼️ Hero Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Coding Banner" width="100%" />
+</p>
+
 <hr/>
 
 <h1 align="center">Hi 👋, I'm Vedant Padole.</h1>
