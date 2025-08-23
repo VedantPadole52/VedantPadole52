@@ -8,10 +8,12 @@
 <h3 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h3>
 
 <hr/>
-- <h2 align="Center">Connect with me:</h2>
-<h3 align="center">
-  📬 <a href="mailto:vedant.officialwork0@gmail.com" style="font-size: 24px; font-weight: bold;">vedant.officialwork0@gmail.com</a>
-</h3>
+<p align="Center">
+- 📫 How to reach me **vedant.officialwork0@gmail.com**
+  
+</p>
+
+- <h2 align="left">Connect with me:</h2>
 <p align="Center">
 <a href="https://twitter.com/@VedantPadole52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vedantpadole52" height="50" width="60" /></a>
   <br/>
