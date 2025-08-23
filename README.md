@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  alt="coder" width="500">
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  alt="coder" width="1000">
 <hr/>
 
 <h1 align="center">Hi 👋, I'm Vedant Padole.</h1>
