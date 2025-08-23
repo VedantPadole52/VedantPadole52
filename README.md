@@ -12,7 +12,7 @@
 <a href="https://twitter.com/@VedantPadole52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vedantpadole52" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vedant-padole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-padole" height="30" width="40" /></a>
 </p>
-
+<hr/>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=vedantpadole52&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
