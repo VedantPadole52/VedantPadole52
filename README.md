@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  alt="coder" width="1500">
 
-<!-- 🖼️ Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Coding Banner" width="100%" />
-</p>
 
 <hr/>
 
@@ -16,7 +12,7 @@
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
 
 - <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="Center">
 <a href="https://twitter.com/@VedantPadole52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vedantpadole52" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vedant-padole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-padole" height="30" width="40" /></a>
 </p>
