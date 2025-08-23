@@ -9,7 +9,9 @@
 
 <hr/>
 <p align="Center">
+  <h3>
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
+    </h3>
 </p>
 
 - <h3 align="left">Connect with me:</h3>
