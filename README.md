@@ -8,10 +8,8 @@
 <h3 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h3>
 
 <hr/>
-<p align="Center">
+
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
-  
-</p>
 
 - <h2 align="left">Connect with me:</h2>
 <p align="Center">
