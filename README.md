@@ -17,6 +17,7 @@
 - <h3 align="Left">Connect with me:</h3>
 <p align="Center">
 <a href="https://twitter.com/@VedantPadole52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vedantpadole52" height="50" width="60" /></a>
+  <br/>
 <a href="https://linkedin.com/in/vedant-padole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-padole" height="50" width="60" /></a>
 </p>
 <hr/>
