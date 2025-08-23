@@ -8,6 +8,10 @@
 <h3 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h3>
 
 <hr/>
+<h2 align="center">
+  📬 <a href="mailto:vedant.officialwork0@gmail.com" style="font-size: 24px; font-weight: bold;">vedant.officialwork0@gmail.com</a>
+</h2>
+
 <p align="Center">
   
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
