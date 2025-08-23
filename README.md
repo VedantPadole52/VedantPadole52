@@ -12,11 +12,7 @@
   📬 <a href="mailto:vedant.officialwork0@gmail.com" style="font-size: 24px; font-weight: bold;">vedant.officialwork0@gmail.com</a>
 </h2>
 
-<p align="Center">
-  
-- 📫 How to reach me **vedant.officialwork0@gmail.com**
-  
-</p>
+
 
 - <h3 align="Left">Connect with me:</h3>
 <p align="Center">
