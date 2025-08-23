@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Vedant Padole.</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h3>h3>
+
 <hr/>
 
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
